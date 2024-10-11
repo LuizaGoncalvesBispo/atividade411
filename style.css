@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #ff8800; /* Laranja mais vibrante */
+    color: #f3eded;
+}
+
+header {
+    background-color: #800080; /* Cor de fundo roxa */
+    height: 6rem; 
+    display: flex; 
+    align-items: center; 
+    padding: 0 1rem; 
+}
+
+
